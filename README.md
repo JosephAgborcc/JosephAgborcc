@@ -16,6 +16,6 @@
 [<img align="left" alt="Joseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joseph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/KingObele
-[instagram]: https://www.instagram.com/JosephObele
-[linkedin]: https://linkedin.com/in/JosephAgbor
+[twitter]: https://twitter.com/King Obele
+[instagram]: https://www.instagram.com/Joseph Obele
+[linkedin]: https://linkedin.com/in/Joseph Agbor
